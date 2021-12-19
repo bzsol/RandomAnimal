@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RandomDog</string>
+    <string name="dog">Dog</string>
+    <string name="cat">Cat</string>
+</resources>
